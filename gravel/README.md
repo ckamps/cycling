@@ -2,6 +2,10 @@
 
 ## Painting
 
+### Painter and Costs
+
+#### Nick
+
 ### Color Ideas
 
 * [Julia Liv Metallic Ruby Red](https://www.liv-cycling.com/us/langma-advanced-pro-1-disc-2018)
