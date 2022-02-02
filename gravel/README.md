@@ -2,7 +2,7 @@
 
 ## Model
 
-* 2017 Niner RLT rdo
+* 2017 Niner RLT RDO
 * 56cm
 
 ## Painting
