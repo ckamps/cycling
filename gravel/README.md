@@ -1,5 +1,10 @@
 # Gravel Bike
 
+## Model
+
+* 2017 Niner RLT rdo
+* 56cm
+
 ## Painting
 
 ### Painter and Costs
@@ -29,6 +34,8 @@ https://www.ninerbikes.com/metal-parts-kit-rlt-9-rdo/
 
 * [Kitchen Sink](https://redshiftsports.com/products/kitchen-sink-handlebar)
 * 
+
+## Forks
 
 ## Component Upgrades
 
