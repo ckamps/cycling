@@ -19,6 +19,10 @@
 |Top tube near stem|"Pedal Damn It"|
 |Fork lower|"Niner"|
 
+### Chain stay guard
+
+https://www.ninerbikes.com/metal-parts-kit-rlt-9-rdo/
+
 #### Sources
 
 ## Bars
