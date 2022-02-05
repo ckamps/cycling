@@ -13,6 +13,7 @@
 
 ### Color Ideas
 
+* [Niner Blood Red](BB2B816B-E9FF-45E3-92CD-4D6419A18BE4.jpeg)
 * [Julia Liv Metallic Ruby Red](https://www.liv-cycling.com/us/langma-advanced-pro-1-disc-2018)
 
 
