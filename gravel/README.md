@@ -35,6 +35,14 @@ https://www.mcmaster.com/stainless-steel-rivet-nuts/
 
 ## Component Upgrades
 
+### Shimano GRX Di2
+
+### SRAM Force eTap AXS
+
+|Compoin
+
+* Crank: SRAM FORCE 43/30 WIDE CRANKSET
+
 ## Wheel Upgrades
 
 https://www.lightbicycle.com/700C-tubeless-bicycle-wheels-32mm-wide-40mm-deep-clincher-for-cyclocross-road-and-gravel-bikes.html
