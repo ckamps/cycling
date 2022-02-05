@@ -15,7 +15,7 @@
 
 * ![Niner Avalanche Grey](DE201B7C-8352-47F9-8EF2-46F616718831.jpeg) 
 * ![Niner Blood Red](BB2B816B-E9FF-45E3-92CD-4D6419A18BE4.jpeg)
-* [Julia Liv Metallic Ruby Red](https://www.liv-cycling.com/us/langma-advanced-pro-1-disc-2018)
+* ![Julia Liv Metallic Ruby Red](https://www.liv-cycling.com/us/langma-advanced-pro-1-disc-2018)
 
 
 ### Chain stay guard
