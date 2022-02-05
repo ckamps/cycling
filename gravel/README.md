@@ -13,10 +13,11 @@
 
 ### Color Ideas
 
-* ![Niner Avalanche Grey](DE201B7C-8352-47F9-8EF2-46F616718831.jpeg) 
-* ![Niner Blood Red](BB2B816B-E9FF-45E3-92CD-4D6419A18BE4.jpeg)
-* ![Julia Liv Metallic Ruby Red](59048B59-C5DD-4E45-81F1-5D99B39509D7.jpeg)
+![Niner Avalanche Grey](images/niner-rlt-rdo-avalanche-grey.jpeg) 
 
+![Niner Blood Red](images/niner-rlt-rdo-blood-red.jpeg)
+
+![Julia Liv Metallic Ruby Red](images/liv-mettalic-ruby-red.jpeg)
 
 ### Chain stay guard
 
@@ -39,16 +40,36 @@ https://www.mcmaster.com/stainless-steel-rivet-nuts/
 
 ### SRAM Force eTap AXS
 
-|Compoin
+#### Gearing
 
-* Crank: SRAM FORCE 43/30 WIDE CRANKSET
+#### Components
 
-## Wheel Upgrades
+DUB or GXP crank?
+
+|Component|Size|Part|Name|Price|Available?|
+|---      |--- |--- |--- |--- |---       |
+|Brake/Shift Levers and Brakes|NA|ED-FRC-D1|SRAM Force eTap AXS HRD Shift-Brake System|$332| |
+|Front Derailleur|NA|FD-FRC-EW-D1|SRAM Force eTap Wide|$230| |
+|Crankset|?mm arm lenght|FC-FRC-W-D1|SRAM Force Wide 43/30T - 165mm, 167.5mm, 170mm, 172.5mm, 175mm, 177.5mm|$254| |
+|Bottom Bracket|PF30>24MM| |DUB PF30 Bottom Bracket| | | |
+|Rear Derailleur|NA|RD-FRC-E-D1|SRAM Force eTap Rear Derailleur|$357| |
+|Cassette| |CS-XG-1270-D1|SRAM Force XG-1270 10-36|$185| |
+|Chain| | |SRAM Force AXS 12-speed Flattop Chain|$35|Y|
+|Charger|NA| |SRAM eTap Battery Charger|$46| |
+|Batteries|NA| |SRAM AXS eTap Battery|$56x2| |
+
+Total retail: $1,551 (not including bottom bracket)
+
+## Wheels
 
 https://www.lightbicycle.com/700C-tubeless-bicycle-wheels-32mm-wide-40mm-deep-clincher-for-cyclocross-road-and-gravel-bikes.html
 
 ## Tires
 
-### Wide
+### Gravel
 
-### Skinny
+40cm?
+
+### Road
+
+32cm
