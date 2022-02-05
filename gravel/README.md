@@ -13,11 +13,11 @@
 
 ### Color Ideas
 
-![Niner Avalanche Grey](images/niner-rlt-rdo-avalanche-grey.jpeg) 
+<img src="images/niner-rlt-rdo-avalanche-grey.jpeg" width="300">
 
-![Niner Blood Red](images/niner-rlt-rdo-blood-red.jpeg)
+<img src="images/niner-rlt-rdo-blood-red.jpeg" width="300">
 
-![Julia Liv Metallic Ruby Red](images/liv-mettalic-ruby-red.jpeg)
+<img src="images/liv-mettalic-ruby-red.jpeg" width="300">
 
 ### Chain stay guard
 
@@ -139,7 +139,7 @@ Road. Not gravel-specific.
 
 Total retail: $1,607 (not including bottom bracket)
 
-![Ultegra R8100 System](images/ultegra-8100-components.jpeg)
+<img src="images/ultegra-8100-components.jpeg" width="600">
 
 ## Wheels
 
