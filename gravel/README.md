@@ -89,7 +89,8 @@ TBD
 
 |Component|Size|Part|Name|Price|Available?|
 |---      |--- |--- |--- |--- |---       |
-|Brake/Shift Levers and Brakes|NA|ED-FRC-D1|SRAM Force eTap AXS HRD Shift-Brake System|$332 x 2|[Wheel Works - Boston](https://www.wheelworks.com/product/sram-force-etap-axs-hrd-shift-brake-system-366227-1.htm?variations=920541,920550)|
+|Brake/Shift Levers and Brakes|NA|ED-FRC-D1|SRAM Force eTap AXS HRD Shift-Brake System|$332 x 2|[Wheel Works - Boston](https://www.wheelworks.com/product/sram-force-etap-axs-hrd-shift-brake-system-366227-1.htm?variations=920541,920550)<br><br>[Summit Bicycles](https://www.summitbicycles.com/product/sram-force-etap-axs-2x-electronic-hrd-groupset-380285-1.htm?variations=1243102&gclid=Cj0KCQiA3fiPBhCCARIsAFQ8QzWwk2qCYl4_HhjmTdXm-e_AXFCsPPNprl8_jsk9fTByFk0bDwFhgBAaAm3CEALw_wcB)|
+| |NA| |SRAM Rival eTap AXS HRD Shift-Brake System|$199 x 2|[Kyle's Bikes](https://kylesbikes.com/sram-rival-etap-axs-hrd-shift-brake-lever-and-hydraulic-disc-caliper-710845864650.html)|
 |Rotor: Front|160mm| | | | |
 |Rotor: Rear|140mm| | | | |
 |Front Derailleur|NA|FD-FRC-EW-D1|SRAM Force eTap Wide|$230| |
