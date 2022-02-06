@@ -148,13 +148,22 @@ TBD
 
 <img src="images/ultegra-8100-components.jpeg" width="600">
 
-## Wheels
+## Wheelsets
 
-https://www.lightbicycle.com/700C-tubeless-bicycle-wheels-32mm-wide-40mm-deep-clincher-for-cyclocross-road-and-gravel-bikes.html
+### Wheels
 
-https://www.lightbicycle.com/700C-road-bicycle-rims-32mm-wide-40mm-deep-symmetric-clincher-road-disc-brake-available.html
+Light Bicylce
 
-## Hubs
+~$1,200 per wheelset
+
+* Braided finish
+* No decal
+
+[FALCON PRO WHEELSET WR40 DISC](https://www.lightbicycle.com/700C-tubeless-bicycle-wheels-32mm-wide-40mm-deep-clincher-for-cyclocross-road-and-gravel-bikes.html)
+
+[FALCON PRO RIM WR40 disc](https://www.lightbicycle.com/700C-road-bicycle-rims-32mm-wide-40mm-deep-symmetric-clincher-road-disc-brake-available.html)
+
+### Hubs
 
 https://industrynine.com/hubs/road_disc/classic-road-disc-cl-rear/
 
