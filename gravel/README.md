@@ -52,7 +52,7 @@ Desired logos.
 |Forks, outsides top|"9"||<img src="images/niner-rlt-rdo-avalanche-grey-fork.jpeg" width="200">|
 |Forks, outsides middle|"niner"|||
 |Forks, insides middle||No graphics needed||
-|Forks, outsides lower|Angled stripe with "RDO"|||
+|Forks, lower|Angled stripe wrap around with "RDO"|||
 |Down tube sides|"niner"|||
 |Bottom bracket, underside front|Data plate|Not super important||\
 |Top Tube, top front|"pedal damn it!"|Do not need the squigglies|<img src="images/niner-rlt-rdo-top-tube.png" width="500">|
