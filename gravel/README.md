@@ -7,32 +7,13 @@
 
 ## Painting
 
-### Painter and Costs
-
-#### Nick
-
-### Color Ideas
+Color Ideas
 
 <img src="images/niner-rlt-rdo-avalanche-grey.jpeg" width="300">
 
 <img src="images/niner-rlt-rdo-blood-red.jpeg" width="300">
 
 <img src="images/liv-mettalic-ruby-red.jpeg" width="300">
-
-### Chain stay guard
-
-https://www.ninerbikes.com/metal-parts-kit-rlt-9-rdo/
-
-#### Sources
-
-## Bars
-
-* [Kitchen Sink](https://redshiftsports.com/products/kitchen-sink-handlebar)
-* 
-
-## Frame moounts
-
-https://www.mcmaster.com/stainless-steel-rivet-nuts/
 
 ## Gearing
 
@@ -171,7 +152,15 @@ TBD
 
 https://www.lightbicycle.com/700C-tubeless-bicycle-wheels-32mm-wide-40mm-deep-clincher-for-cyclocross-road-and-gravel-bikes.html
 
+https://www.lightbicycle.com/700C-road-bicycle-rims-32mm-wide-40mm-deep-symmetric-clincher-road-disc-brake-available.html
+
+## Hubs
+
+https://industrynine.com/hubs/road_disc/classic-road-disc-cl-rear/
+
 ## Tires
+
+Tubeless
 
 ### Gravel
 
@@ -180,3 +169,35 @@ https://www.lightbicycle.com/700C-tubeless-bicycle-wheels-32mm-wide-40mm-deep-cl
 ### Road
 
 32cm
+
+## After Painting Paint / Frame Protection
+
+### Niner Metal chain stay guard
+
+https://www.ninerbikes.com/metal-parts-kit-rlt-9-rdo/
+
+### Clear chain stay guard
+
+...
+
+### Clear pain protection film
+
+* Underside of down tub
+* Inner portion of chain and seat stays
+
+### Other Components
+
+## Bars
+
+* [Kitchen Sink](https://redshiftsports.com/products/kitchen-sink-handlebar)
+
+## Frame moounts
+
+Want to add bottle cage lugs to top of top tube near steering head to attach bolt on frame bag.
+
+https://www.mcmaster.com/stainless-steel-rivet-nuts/
+
+## Bolt On Frame Bag
+
+* [Mag Tank Bolt On](https://www.revelatedesigns.com/index.cfm/store.catalog/Cockpit/MagTankBoltOn?i=1)
+* [Restrap](https://us.restrap.com/products/bolt-on-top-tube-bag)
