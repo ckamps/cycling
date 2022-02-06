@@ -22,13 +22,21 @@ Niner Avalance Grey without the squigglies on the lower portions of the seat tub
 <img src="images/niner-rlt-rdo-avalanche-grey-frame.jpeg" width="500">
 <img src="images/niner-rlt-rdo-avalanche-grey.jpeg" width="300">
 
-### Color Scheme Choice #2
+### Color Scheme Choice #2: Light silver with fade to smoke
+
+Similar to the following [Specialized Tarmac SL7 Expert](https://www.specialized.com/us/en/tarmac-sl7-expert---ultegra-di2/p/175295) in Light Silver/Smoke Fade/Black.
+
+<img src="images/tarmac-sl7-silver-smoke-fade.jpeg" width="500">
+
+<img src="images/tarmac-sl7-silver-smoke-fade-lower.jpeg" width="500">
+
+### Color Scheme Choice #3
 
 Single color version of the following:
 
 <img src="images/niner-rlt-rdo-blood-red.jpeg" width="300">
 
-### Color Scheme Choice 4
+### Color Scheme Choice #4
 
 A matte color
 
