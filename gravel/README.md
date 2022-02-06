@@ -5,28 +5,64 @@
 * 2017 Niner RLT RDO
 * 56cm
 
-## Painting
+### Technical Specifications
 
-Color Ideas
+<img src="images/niner-rlt-rdo-specs.jpeg" width="600">
 
-### Choice #1
+### Original Build
+
+<img src="images/niner-rlt-rdo-original-build.jpeg" width="600">
+
+## Frame / Fork Painting
+
+### Color Scheme Choice #1
+
+Niner Avalance Grey without the squigglies on the lower portions of the seat tube and forks. 
 
 <img src="images/niner-rlt-rdo-avalanche-grey-frame.jpeg" width="500">
 <img src="images/niner-rlt-rdo-avalanche-grey.jpeg" width="300">
 
-### Choice #2
+### Color Scheme Choice #2
 
 Single color version of the following:
 
 <img src="images/niner-rlt-rdo-blood-red.jpeg" width="300">
 
-### Choice #3:
-
-<img src="images/liv-mettalic-ruby-red.jpeg" width="300">
-
-### Choice 4
+### Color Scheme Choice 4
 
 A matte color
+
+### Niner OEM graphics
+
+Desired logos.
+
+|Location|Script/Graphic|Notes|Example|
+|---     |---           |---    |---  |
+|Head tube, front|"9"||[Niner stick on head badge](https://www.ninerbikes.com/collections/black-niner-headbadge-stick-on-bent/)|
+|Forks, sides top|"9"|||
+|Forks, sides middle|"niner"|||
+|Forks, sides lower|Angled stripe|||
+|Down tube sides|"niner"|||
+|Bottom bracket, underside front|Data plate|Not super important||\
+|Top Tube, top front|"Pedal damn it!"|Do not need the squigglies|<img src="images/niner-rlt-rdo-top-tube.png" width="500">|
+|Seat tube, sides|"niner"|||
+|Seat tube, rear upper|"RDO"||<img src="images/niner-rlt-rdo-seat-tube-upper-rear.png" width="500">|
+|Seat tube, front upper|"Calirado" w/bear and state flags||<br><br><img src="images/niner-calirado-logo.jpeg" width="500">|
+|Seat stays, sides|"niner"|||
+|Seat stays, top|"9"|||
+|Chain stays|none|||
+
+### Add frame mounts
+
+Want to add 5 frame mounts to support:
+
+* Bag on top of top tube
+* Frame bag
+
+<img src="images/niner-rlt-frame-mounts.jpeg" width="500">
+
+<img src="images/niner-rlt-frame-bags.jpeg" width="500">
+
 
 ## Gearing
 
@@ -217,13 +253,14 @@ https://www.ninerbikes.com/metal-parts-kit-rlt-9-rdo/
 
 * [Kitchen Sink](https://redshiftsports.com/products/kitchen-sink-handlebar)
 
-## Frame moounts
+## Bolt On Frame Bags
 
-Want to add bottle cage lugs to top of top tube near steering head to attach bolt on frame bag.
+### Top Tubes
 
-https://www.mcmaster.com/stainless-steel-rivet-nuts/
-
-## Bolt On Frame Bag
-
+* Niner
 * [Mag Tank Bolt On](https://www.revelatedesigns.com/index.cfm/store.catalog/Cockpit/MagTankBoltOn?i=1)
 * [Restrap](https://us.restrap.com/products/bolt-on-top-tube-bag)
+
+### Frame Bags
+
+* Niner
