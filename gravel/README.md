@@ -34,6 +34,14 @@ https://www.ninerbikes.com/metal-parts-kit-rlt-9-rdo/
 
 https://www.mcmaster.com/stainless-steel-rivet-nuts/
 
+## Gearing
+
+|Component Group|Speeds|Front|Rear|
+|---            |---   |---  |--- |
+|Shimano GRX|11|48/31T|11-34T|
+|SRAM|12|43/30T|10-36T|
+|Shimano Ultegra R8100|12|34/50T|11-34T|
+
 ## Component Upgrades
 
 ### Shimano GRX Di2 11 Speed
@@ -81,7 +89,7 @@ TBD
 
 |Component|Size|Part|Name|Price|Available?|
 |---      |--- |--- |--- |--- |---       |
-|Brake/Shift Levers and Brakes|NA|ED-FRC-D1|SRAM Force eTap AXS HRD Shift-Brake System|$332 x 2| |
+|Brake/Shift Levers and Brakes|NA|ED-FRC-D1|SRAM Force eTap AXS HRD Shift-Brake System|$332 x 2|[Wheel Works - Boston](https://www.wheelworks.com/product/sram-force-etap-axs-hrd-shift-brake-system-366227-1.htm?variations=920541,920550)|
 |Rotor: Front|160mm| | | | |
 |Rotor: Rear|140mm| | | | |
 |Front Derailleur|NA|FD-FRC-EW-D1|SRAM Force eTap Wide|$230| |
@@ -123,21 +131,38 @@ Road. Not gravel-specific.
 
 |Component|Size|Part|Name|Price|Available?|
 |---      |--- |--- |--- |---  |---       |
-|Brake/Shift Levers|NA|ST-R8170|...|$?|N|
-|Disc Brake Caliper| |BR-R8170|...|$?|N|
+|Brake/Shift Levers and Calipers|NA|ST-R8170-R/L|...|$536 x 2|N|
+|Disc Brake Caliper| |BR-R8170|Included above|NA|N|
 |Rotor Front|160mm|RT-MT800|...|$?|N|
 |Rotor Rear|140mm|RT-MT800|...|$?|N|
-|Front Derailleur|NA|FD-R8150|...|$?|N|
-|Crankset|?mm|FC-R8100 Crankset|...|$?|N|
+|Front Derailleur|NA|FD-R8150|...|$259|N|
+|Crankset|?mm|FC-R8100 Crankset|34x50 - ??mm|$314|N|
 |Bottom Bracket|PF30>24MM| |...|$?|N|
-|Rear Derailleur|NA|RD-R8150|...|$?|N|
-|Cassette| |CS-R8100|...|$?|N|
-|Chain| |CN-M8100|12-speed Chain|$?|Y|
-|Charger Cable|NA|EW-FC300|Battery Charger Cable|$?|N|
-|Battery|NA|BT-DN300|Internal Battery|$?|N|
+|Rear Derailleur|NA|RD-R8150|...|$409|N|
+|Cassette| |CS-R8100|11-34|$111|N|
+|Chain| |CN-M8100|12-speed Chain|$46|Y|
+|Charger Cable|NA|EW-FC300|Battery Charger Cable|$49|N|
+|Battery|NA|BT-DN300|Internal Battery|$184|N|
 |Wires|NA| |2 x E-Tube Wires|$?|N|
 
-Total retail: $1,607 (not including bottom bracket)
+Total retail: $2,444 (not including rotors, bottom bracket, and wires)
+
+Pros
+
+* Wireless shifters
+
+Cons
+
+* ~$500 more expensive that SRAM Force and Shimano GRX Di2
+* Not generally available until summer
+* Wired derailleurs
+* Battery not easy to remove to charge
+* Can't carry spare battery
+
+TBD
+
+* Shift speed
+* Comfort of levers
 
 <img src="images/ultegra-8100-components.jpeg" width="600">
 
