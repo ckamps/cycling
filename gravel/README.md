@@ -26,9 +26,11 @@ Niner Avalance Grey without the squigglies on the lower portions of the seat tub
 
 Similar to the following [Specialized Tarmac SL7 Expert](https://www.specialized.com/us/en/tarmac-sl7-expert---ultegra-di2/p/175295) in Light Silver/Smoke Fade/Black.
 
+See color scheme choice #3 for an example of a fade on the Niner RLT RDO.
+
 <img src="images/tarmac-sl7-silver-smoke-fade.jpeg" width="500">
 
-<img src="images/tarmac-sl7-silver-smoke-fade-lower.jpeg" width="500">
+<img src="images/tarmac-sl7-silver-smoke-fade-lower.jp2" width="500">
 
 ### Color Scheme Choice #3
 
