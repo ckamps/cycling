@@ -9,11 +9,24 @@
 
 Color Ideas
 
+### Choice #1
+
+<img src="images/niner-rlt-rdo-avalanche-grey-frame.jpeg" width="500">
 <img src="images/niner-rlt-rdo-avalanche-grey.jpeg" width="300">
+
+### Choice #2
+
+Single color version of the following:
 
 <img src="images/niner-rlt-rdo-blood-red.jpeg" width="300">
 
+### Choice #3:
+
 <img src="images/liv-mettalic-ruby-red.jpeg" width="300">
+
+### Choice 4
+
+A matte color
 
 ## Gearing
 
@@ -24,6 +37,51 @@ Color Ideas
 |Shimano Ultegra R8100|12|34/50T|11-34T|
 
 ## Component Upgrades
+
+Current decision is to go with SRAM Force eTap AXS.
+
+Optionally, will go with all Force, but substitute Rival shift levers due to their significantly lower cost. However, the Rival levers do not have ports for accessory shift buttons.
+
+### SRAM Force eTap AXS Wide 12 Speed
+
+|Component|Size|Part|Name|Price|Available?|
+|---      |--- |--- |--- |--- |---       |
+|Brake/Shift Levers and Brakes|NA|ED-FRC-D1|SRAM Force eTap AXS HRD Shift-Brake System|$332 x 2|[Wheel Works - Boston](https://www.wheelworks.com/product/sram-force-etap-axs-hrd-shift-brake-system-366227-1.htm?variations=920541,920550)<br><br>[Summit Bicycles](https://www.summitbicycles.com/product/sram-force-etap-axs-2x-electronic-hrd-groupset-380285-1.htm?variations=1243102&gclid=Cj0KCQiA3fiPBhCCARIsAFQ8QzWwk2qCYl4_HhjmTdXm-e_AXFCsPPNprl8_jsk9fTByFk0bDwFhgBAaAm3CEALw_wcB)|
+| |NA| |SRAM Rival eTap AXS HRD Shift-Brake System|$199 x 2|[Kyle's Bikes](https://kylesbikes.com/sram-rival-etap-axs-hrd-shift-brake-lever-and-hydraulic-disc-caliper-710845864650.html)|
+|Rotor: Front|160mm| | | | |
+|Rotor: Rear|140mm| | | | |
+|Front Derailleur|NA|FD-FRC-EW-D1|SRAM Force eTap Wide|$230| |
+|Crankset|?mm|FC-FRC-W-D1|SRAM Force Wide 43/30T - 165mm, 167.5mm, 170mm, 172.5mm, 175mm, 177.5mm|$254| |
+|Bottom Bracket|PF30>24MM| |DUB PF30 Bottom Bracket| | | |
+|Rear Derailleur|NA|RD-FRC-E-D1|SRAM Force eTap Rear Derailleur|$357| |
+|Cassette| |CS-XG-1270-D1|SRAM Force XG-1270 10-36|$185| |
+|Chain| | |SRAM Force AXS 12-speed Flattop Chain|$35|Y|
+|Charger|NA| |SRAM eTap Battery Charger|$46| |
+|Batteries|NA| |SRAM AXS eTap Battery|$56 x 3| |
+
+Total retail: $1,939 (not including rotors, bottom bracket)
+
+Pros
+
+* Gravel oriented
+* Completely wireless
+  * Bluetooth and mobile connectivity built in
+* Ease of charging batteries
+* Ability to carry spare batteries
+* Wide gearing (need to confirm)
+* Ease of removing rear derailleur for travel
+
+Cons
+
+* Not as fast shifting as Shimano GXR
+  * Potential 2x issue with front derailleur
+* Not as good braking modulation as Shimano GXR
+
+TBD
+
+* AXS app
+* Drivetrain and shifting noise
+* 11-speed vs SRAM 12-speed
 
 ### Shimano GRX Di2 11 Speed
 
@@ -63,47 +121,6 @@ Cons
 TBD
 
 * Mobile app
-* Drivetrain and shifting noise
-* 11-speed vs SRAM 12-speed
-
-### SRAM Force eTap AX Wide 12 Speed
-
-|Component|Size|Part|Name|Price|Available?|
-|---      |--- |--- |--- |--- |---       |
-|Brake/Shift Levers and Brakes|NA|ED-FRC-D1|SRAM Force eTap AXS HRD Shift-Brake System|$332 x 2|[Wheel Works - Boston](https://www.wheelworks.com/product/sram-force-etap-axs-hrd-shift-brake-system-366227-1.htm?variations=920541,920550)<br><br>[Summit Bicycles](https://www.summitbicycles.com/product/sram-force-etap-axs-2x-electronic-hrd-groupset-380285-1.htm?variations=1243102&gclid=Cj0KCQiA3fiPBhCCARIsAFQ8QzWwk2qCYl4_HhjmTdXm-e_AXFCsPPNprl8_jsk9fTByFk0bDwFhgBAaAm3CEALw_wcB)|
-| |NA| |SRAM Rival eTap AXS HRD Shift-Brake System|$199 x 2|[Kyle's Bikes](https://kylesbikes.com/sram-rival-etap-axs-hrd-shift-brake-lever-and-hydraulic-disc-caliper-710845864650.html)|
-|Rotor: Front|160mm| | | | |
-|Rotor: Rear|140mm| | | | |
-|Front Derailleur|NA|FD-FRC-EW-D1|SRAM Force eTap Wide|$230| |
-|Crankset|?mm|FC-FRC-W-D1|SRAM Force Wide 43/30T - 165mm, 167.5mm, 170mm, 172.5mm, 175mm, 177.5mm|$254| |
-|Bottom Bracket|PF30>24MM| |DUB PF30 Bottom Bracket| | | |
-|Rear Derailleur|NA|RD-FRC-E-D1|SRAM Force eTap Rear Derailleur|$357| |
-|Cassette| |CS-XG-1270-D1|SRAM Force XG-1270 10-36|$185| |
-|Chain| | |SRAM Force AXS 12-speed Flattop Chain|$35|Y|
-|Charger|NA| |SRAM eTap Battery Charger|$46| |
-|Batteries|NA| |SRAM AXS eTap Battery|$56 x 3| |
-
-Total retail: $1,939 (not including rotors, bottom bracket)
-
-Pros
-
-* Gravel oriented
-* Completely wireless
-  * Bluetooth and mobile connectivity built in
-* Ease of charging batteries
-* Ability to carry spare batteries
-* Wide gearing (need to confirm)
-* Ease of removing rear derailleur for travel
-
-Cons
-
-* Not as fast shifting as Shimano GXR
-  * Potential 2x issue with front derailleur
-* Not as good braking modulation as Shimano GXR
-
-TBD
-
-* AXS app
 * Drivetrain and shifting noise
 * 11-speed vs SRAM 12-speed
 
