@@ -39,12 +39,12 @@ Desired logos.
 |Location|Script/Graphic|Notes|Example|
 |---     |---           |---    |---  |
 |Head tube, front|"9"||[Niner stick on head badge](https://www.ninerbikes.com/collections/black-niner-headbadge-stick-on-bent/)|
-|Forks, sides top|"9"|||
+|Forks, sides top|"9"||<img src="images/niner-rlt-rdo-avalanche-grey-fork.jpeg" width="200">|
 |Forks, sides middle|"niner"|||
-|Forks, sides lower|Angled stripe|||
+|Forks, sides lower|Angled stripe with "RDO"|||
 |Down tube sides|"niner"|||
 |Bottom bracket, underside front|Data plate|Not super important||\
-|Top Tube, top front|"Pedal damn it!"|Do not need the squigglies|<img src="images/niner-rlt-rdo-top-tube.png" width="500">|
+|Top Tube, top front|"pedal damn it!"|Do not need the squigglies|<img src="images/niner-rlt-rdo-top-tube.png" width="500">|
 |Seat tube, sides|"niner"|||
 |Seat tube, rear upper|"RDO"||<img src="images/niner-rlt-rdo-seat-tube-upper-rear.png" width="500">|
 |Seat tube, front upper|"Calirado" w/bear and state flags||<br><br><img src="images/niner-calirado-logo.jpeg" width="500">|
