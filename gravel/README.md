@@ -54,13 +54,13 @@ Desired logos.
 |Forks, insides middle||No graphics needed||
 |Forks, lower|Angled stripe wrap around with "RDO"|||
 |Down tube sides|"niner"|||
-|Bottom bracket, underside front|Data plate|Not super important||\
+|Bottom bracket, underside front|Data plate|Not super important||
 |Top Tube, top front|"pedal damn it!"|Do not need the squigglies|<img src="images/niner-rlt-rdo-top-tube.png" width="500">|
+|Top Tube, top rear|"RLT 9 RDO"||<img src="images/niner-rlt-9-rdo-top-tube.jpeg" width="500">|
 |Seat tube, sides|"niner"|||
-|Seat tube, rear upper|"RDO"||<img src="images/niner-rlt-rdo-seat-tube-upper-rear.png" width="500">|
-|Seat tube, front upper|"Calirado" w/bear and state flags||<br><br><img src="images/niner-calirado-logo.jpeg" width="500">|
+|Seat tube, rear upper|"RDO"||<img src="images/rdo-top-rear-seat-tube.jpeg" width="500"><br><br><img src="images/niner-rlt-rdo-seat-tube-upper-rear.png" width="500">|
+|Seat tube, front upper|"Calirado" w/bear and state flags||<img src="images/ca-co-top-front-seat-tube.jpeg" width="500"><br><br><img src="images/niner-calirado-logo.jpeg" width="500">|
 |Seat stays, sides|"niner"|||
-|Seat stays, top|"9"|||
 |Chain stays|none|||
 
 ### Add frame mounts
