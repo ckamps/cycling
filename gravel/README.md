@@ -97,6 +97,7 @@ Optionally, will go with all Force, but substitute Rival shift levers due to the
 |Rotor: Front|160mm| | | |No|
 |Rotor: Rear|140mm| | | |No|
 |Front Derailleur|NA|FD-FRC-EW-D1|SRAM Force eTap Wide|$230|No|
+|Front Derailleur Braze On Adapter|31.8mm|AC-FDCL-A1|Braze-On Front Derailleur Adapter|$30|No|
 |Crankset|?mm|FC-FRC-W-D1|SRAM Force Wide 43/30T - 165mm, 167.5mm, 170mm, 172.5mm, 175mm, 177.5mm|$254|No|
 |Bottom Bracket|PF30>24MM| |DUB PF30 Bottom Bracket| | |No|
 |Rear Derailleur|NA|RD-FRC-E-D1|SRAM Force eTap Rear Derailleur|$357|No|
