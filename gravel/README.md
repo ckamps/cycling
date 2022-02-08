@@ -91,21 +91,19 @@ Optionally, will go with all Force, but substitute Rival shift levers due to the
 
 ### SRAM Force eTap AXS Wide 12 Speed
 
-|Component|Size|Part|Name|Price|Available?|
+|Component|Size|Part|Name|Price|Already Sourced?|
 |---      |--- |--- |--- |--- |---       |
-|Brake/Shift Levers and Brakes|NA|ED-FRC-D1|SRAM Force eTap AXS HRD Shift-Brake System|$332 x 2|[Wheel Works - Boston](https://www.wheelworks.com/product/sram-force-etap-axs-hrd-shift-brake-system-366227-1.htm?variations=920541,920550)<br><br>[Summit Bicycles](https://www.summitbicycles.com/product/sram-force-etap-axs-2x-electronic-hrd-groupset-380285-1.htm?variations=1243102&gclid=Cj0KCQiA3fiPBhCCARIsAFQ8QzWwk2qCYl4_HhjmTdXm-e_AXFCsPPNprl8_jsk9fTByFk0bDwFhgBAaAm3CEALw_wcB)|
-| |NA| |SRAM Rival eTap AXS HRD Shift-Brake System|$199 x 2|[Kyle's Bikes](https://kylesbikes.com/sram-rival-etap-axs-hrd-shift-brake-lever-and-hydraulic-disc-caliper-710845864650.html)|
-|Rotor: Front|160mm| | | | |
-|Rotor: Rear|140mm| | | | |
-|Front Derailleur|NA|FD-FRC-EW-D1|SRAM Force eTap Wide|$230| |
-|Front Derailleur Braze On Adapter|31mm|AC-FDCL-A1|Braze-On Front Derailleur Adapter|$30||
-|Crankset|?mm|FC-FRC-W-D1|SRAM Force Wide 43/30T - 165mm, 167.5mm, 170mm, 172.5mm, 175mm, 177.5mm|$254| |
-|Bottom Bracket|PF30>24MM| |DUB PF30 Bottom Bracket| | | |
-|Rear Derailleur|NA|RD-FRC-E-D1|SRAM Force eTap Rear Derailleur|$357| |
-|Cassette| |CS-XG-1270-D1|SRAM Force XG-1270 10-36|$185| |
-|Chain| | |SRAM Force AXS 12-speed Flattop Chain|$35|Y|
-|Charger|NA| |SRAM eTap Battery Charger|$46| |
-|Batteries|NA| |SRAM AXS eTap Battery|$56 x 3| |
+|Brake/Shift Levers and Brakes|NA|ED-FRC-D1|SRAM Force eTap AXS HRD Shift-Brake System|$332 x 2|[Already purchased via Wheel Works - Boston](https://www.wheelworks.com/product/sram-force-etap-axs-hrd-shift-brake-system-366227-1.htm?variations=920541,920550)|
+|Rotor: Front|160mm| | | |No|
+|Rotor: Rear|140mm| | | |No|
+|Front Derailleur|NA|FD-FRC-EW-D1|SRAM Force eTap Wide|$230|No|
+|Crankset|?mm|FC-FRC-W-D1|SRAM Force Wide 43/30T - 165mm, 167.5mm, 170mm, 172.5mm, 175mm, 177.5mm|$254|No|
+|Bottom Bracket|PF30>24MM| |DUB PF30 Bottom Bracket| | |No|
+|Rear Derailleur|NA|RD-FRC-E-D1|SRAM Force eTap Rear Derailleur|$357|No|
+|Cassette| |CS-XG-1270-D1|SRAM Force XG-1270 10-36|$185|No|
+|Chain| | |SRAM Force AXS 12-speed Flattop Chain|$35|No|
+|Charger|NA| |SRAM eTap Battery Charger|$46|No|
+|Batteries|NA| |SRAM AXS eTap Battery|$56 x 3 (including spare)|No|
 
 Total retail: $1,939 (not including rotors, bottom bracket)
 
