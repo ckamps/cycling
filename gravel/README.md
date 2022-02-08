@@ -94,8 +94,8 @@ Optionally, will go with all Force, but substitute Rival shift levers due to the
 |Component|Size|Part|Name|Price|Already Sourced?|
 |---      |--- |--- |--- |--- |---       |
 |Brake/Shift Levers and Brakes|NA|ED-FRC-D1|SRAM Force eTap AXS HRD Shift-Brake System|$332 x 2|[Already purchased via Wheel Works - Boston](https://www.wheelworks.com/product/sram-force-etap-axs-hrd-shift-brake-system-366227-1.htm?variations=920541,920550)|
-|Rotor: Front|160mm| | | |No|
-|Rotor: Rear|140mm| | | |No|
+|Rotor: Front|160mm|RT-CLN-X-A2|CenterLine X Rounded Rotor - Centerlock|$73|No|
+|Rotor: Rear|140mm|RT-CLN-X-A2|CenterLine X Rounded Rotor - Centerlock|$50|No|
 |Front Derailleur|NA|FD-FRC-EW-D1|SRAM Force eTap Wide|$230|No|
 |Front Derailleur Braze On Adapter|31.8mm|AC-FDCL-A1|Braze-On Front Derailleur Adapter|$30|No|
 |Crankset|?mm|FC-FRC-W-D1|SRAM Force Wide 43/30T - 165mm, 167.5mm, 170mm, 172.5mm, 175mm, 177.5mm|$254|No|
@@ -106,7 +106,7 @@ Optionally, will go with all Force, but substitute Rival shift levers due to the
 |Charger|NA| |SRAM eTap Battery Charger|$46|No|
 |Batteries|NA| |SRAM AXS eTap Battery|$56 x 3 (including spare)|No|
 
-Total retail: $1,939 (not including rotors, bottom bracket)
+Total retail: $1,939 + $123 (not including bottom bracket)
 
 Pros
 
