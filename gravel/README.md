@@ -93,18 +93,18 @@ Optionally, will go with all Force, but substitute Rival shift levers due to the
 
 |Component|Size|Part|Name|Price|Already Sourced?|
 |---      |--- |--- |--- |--- |---       |
-|Brake/Shift Levers and Brakes|NA|ED-FRC-D1|SRAM Force eTap AXS HRD Shift-Brake System|$332 x 2|Already purchased via [Wheel Works - Boston](https://www.wheelworks.com/product/sram-force-etap-axs-hrd-shift-brake-system-366227-1.htm?variations=920541,920550)|
-|Rotor: Front|160mm|RT-CLN-X-A2|CenterLine X Rounded Rotor - Centerlock|$73|LBS available|
-|Rotor: Rear|140mm|RT-CLN-X-A2|CenterLine X Rounded Rotor - Centerlock|$50|No|
+|Brake/Shift Levers and Brakes|NA|ED-FRC-D1|SRAM Force eTap AXS HRD Shift-Brake System|$332 x 2|Ordered via [Wheel Works - Boston](https://www.wheelworks.com/product/sram-force-etap-axs-hrd-shift-brake-system-366227-1.htm?variations=920541,920550)|
+|Rotor: Front|160mm|RT-CLN-X-A2|CenterLine X Rounded Rotor - Centerlock|$73|Ordered via LBS|
+|Rotor: Rear|140mm|RT-CLN-X-A2|CenterLine X Rounded Rotor - Centerlock|$50|Ordered via LBS|
 |Front Derailleur|NA|FD-FRC-EW-D1|SRAM Force eTap Wide|$230|No|
 |Front Derailleur Braze On Adapter|31.8mm|AC-FDCL-A1|Braze-On Front Derailleur Adapter|$30|No|
-|Crankset|172.5mm|FC-FRC-W-D1|SRAM Force Wide 43/30T - 172.5mm|$254|No|
+|Crankset|172.5mm|FC-FRC-W-D1|SRAM Force Wide 43/30T - 172.5mm|$254|Ordered via Competitice Cyclist|
 |Bottom Bracket|PF30>24MM| |DUB PF30 Bottom Bracket| | |LBS available|
 |Rear Derailleur|NA|RD-FRC-E-D1|SRAM Force eTap Rear Derailleur|$357|No|
 |Cassette| |CS-XG-1270-D1|SRAM Force XG-1270 10-36|$185|Ordered via Wheel Works Boston|
-|Chain| | |SRAM Force AXS 12-speed Flattop Chain|$35|LBS available|
+|Chain| | |SRAM Force AXS 12-speed Flattop Chain|$35|In hand|
 |Charger|NA| |SRAM eTap Battery Charger|$46|No|
-|Batteries|NA| |SRAM AXS eTap Battery|$56 x 3 (including spare)|No|
+|Batteries|NA| |SRAM AXS eTap Battery|$56 x 3 (including spare)|2 in hand|
 
 Total retail: $1,939 + $123 (not including bottom bracket)
 
@@ -214,14 +214,11 @@ TBD
 
 ## Wheelsets
 
+~$1,350 per wheelset including hubs, spokes, build
+
 ### Wheels
 
 Light Bicylce
-
-~$1,200 per wheelset
-
-* Braided finish
-* No decal
 
 [FALCON PRO WHEELSET WR40 DISC](https://www.lightbicycle.com/700C-tubeless-bicycle-wheels-32mm-wide-40mm-deep-clincher-for-cyclocross-road-and-gravel-bikes.html)
 
