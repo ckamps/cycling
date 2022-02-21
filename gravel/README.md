@@ -93,18 +93,20 @@ Optionally, will go with all Force, but substitute Rival shift levers due to the
 
 |Component|Size|Part|Name|Price|Already Sourced?|
 |---      |--- |--- |--- |--- |---       |
-|Brake/Shift Levers and Brakes|NA|ED-FRC-D1|SRAM Force eTap AXS HRD Shift-Brake System|$332 x 2|Ordered via [Wheel Works - Boston](https://www.wheelworks.com/product/sram-force-etap-axs-hrd-shift-brake-system-366227-1.htm?variations=920541,920550)|
+|Headset|1.125" X 1.5" tapered integrated IS42/28.6 - IS52/40| | | | |
+|Brake/Shift Levers and Brakes|NA|ED-FRC-D1|SRAM Force eTap AXS HRD Shift-Brake System|$332 x 2|In hand|
 |Rotor: Front|160mm|RT-CLN-X-A2|CenterLine X Rounded Rotor - Centerlock|$73|Ordered via LBS|
 |Rotor: Rear|140mm|RT-CLN-X-A2|CenterLine X Rounded Rotor - Centerlock|$50|Ordered via LBS|
 |Front Derailleur|NA|FD-FRC-EW-D1|SRAM Force eTap Wide|$230|No|
 |Front Derailleur Braze On Adapter|31.8mm|AC-FDCL-A1|Braze-On Front Derailleur Adapter|$30|No|
-|Crankset|172.5mm|FC-FRC-W-D1|SRAM Force Wide 43/30T - 172.5mm|$254|Ordered via Competitice Cyclist|
-|Bottom Bracket|PF30>24MM| |DUB PF30 Bottom Bracket| | |LBS available|
+|Crankset|172.5mm|FC-FRC-W-D1|SRAM Force Wide 43/30T - 172.5mm|$254|In hand|
+|Bottom Bracket|PF30>24MM| |DUB PF30 Bottom Bracket Mtn/Road 68/73mm| |$44|LBS available|
 |Rear Derailleur|NA|RD-FRC-E-D1|SRAM Force eTap Rear Derailleur|$357|No|
-|Cassette| |CS-XG-1270-D1|SRAM Force XG-1270 10-36|$185|Ordered via Wheel Works Boston|
+|Cassette| |CS-XG-1270-D1|SRAM Force XG-1270 10-36|$185|In hand|
 |Chain| | |SRAM Force AXS 12-speed Flattop Chain|$35|In hand|
 |Charger|NA| |SRAM eTap Battery Charger|$46|No|
 |Batteries|NA| |SRAM AXS eTap Battery|$56 x 3 (including spare)|2 in hand|
+
 
 Total retail: $1,939 + $123 (not including bottom bracket)
 
@@ -214,7 +216,9 @@ TBD
 
 ## Wheelsets
 
-~$1,350 per wheelset including hubs, spokes, build
+~$1,350 per wheelset from LBS including Falcon Pro WR40 rims, hubs, spokes, build.
+
+Eventual plan is to purchase two wheelsets: One for gravel and one for road.
 
 ### Wheels
 
@@ -234,7 +238,9 @@ Tubeless
 
 ### Gravel
 
-40cm?
+[Reviews](https://www.bicyclerollingresistance.com/cx-gravel-reviews)
+
+Continental Terra Speed TR (Protection) 40cm
 
 ### Road
 
