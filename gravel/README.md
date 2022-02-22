@@ -93,6 +93,8 @@ Optionally, will go with all Force, but substitute Rival shift levers due to the
 
 |Component|Size|Part|Name|Price|Already Sourced?|
 |---      |--- |--- |--- |--- |---       |
+|Fork| | |Niner RDO Carbon Fork| |In hand|
+|Front thru axle|12x100mm| | | |
 |Headset|1.125" X 1.5" tapered integrated IS42/28.6 - IS52/40|Cane Creek 40 IS42/28.6 IS52/40 Short Cover Headset, Black| | | |
 |Brake/Shift Levers and Brakes|NA|ED-FRC-D1|SRAM Force eTap AXS HRD Shift-Brake System|$332 x 2|In hand|
 |Rotor: Front|160mm|RT-CLN-X-A2|CenterLine X Rounded Rotor - Centerlock|$73|Ordered via LBS|
