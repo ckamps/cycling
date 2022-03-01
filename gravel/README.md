@@ -99,14 +99,14 @@ Optionally, will go with all Force, but substitute Rival shift levers due to the
 |Brake/Shift Levers and Brakes|NA|ED-FRC-D1|SRAM Force eTap AXS HRD Shift-Brake System|$332 x 2|In hand|
 |Rotor: Front|160mm|RT-CLN-X-A2|CenterLine X Rounded Rotor - Centerlock|$73|Ordered via LBS|
 |Rotor: Rear|140mm|RT-CLN-X-A2|CenterLine X Rounded Rotor - Centerlock|$50|Ordered via LBS|
-|Front Derailleur|NA|FD-FRC-EW-D1|SRAM Force eTap Wide|$230|No|
-|Front Derailleur Braze On Adapter|31.8mm|AC-FDCL-A1|Braze-On Front Derailleur Adapter|$30|No|
+|Front Derailleur|NA|FD-FRC-EW-D1|SRAM Force eTap Wide|$230|Ordered via Jenson USA|
+|Front Derailleur Braze On Adapter|31.8mm|AC-FDCL-A1|Braze-On Front Derailleur Adapter|$30|Ordered Competitive Cyclist|
 |Crankset|172.5mm|FC-FRC-W-D1|SRAM Force Wide 43/30T - 172.5mm|$254|In hand|
-|Bottom Bracket|PF30>24MM| |DUB PF30 Bottom Bracket Mtn/Road 68/73mm|$44|LBS available|
-|Rear Derailleur|NA|RD-FRC-E-D1|SRAM Force eTap Rear Derailleur|$357|No|
+|Bottom Bracket|PF30>24MM| |DUB PF30 Bottom Bracket Mtn/Road 68/73mm|$44|Ordered Competitive Cyclist|
+|Rear Derailleur|NA|RD-FRC-E-D1|SRAM Force eTap Rear Derailleur|$357|Ordered Competitive Cyclist|
 |Cassette| |CS-XG-1270-D1|SRAM Force XG-1270 10-36|$185|In hand|
 |Chain| | |SRAM Force AXS 12-speed Flattop Chain|$35|In hand|
-|Charger|NA| |SRAM eTap Battery Charger|$46|No|
+|Charger|NA| |SRAM eTap Battery Charger|$46|Ordered Competitive Cyclist|
 |Batteries|NA| |SRAM AXS eTap Battery|$56 x 3 (including spare)|2 in hand|
 |Chain Stay Guard| | |Ti Guard - CS - RLT 9 RDO V1|$15|Ordered from Niner|
 |Headbadge| | |Niner Headbadge - Stick On|$12|Ordered from Niner|
