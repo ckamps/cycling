@@ -95,7 +95,7 @@ Optionally, will go with all Force, but substitute Rival shift levers due to the
 |---      |--- |--- |--- |--- |---       |
 |Fork| | |Niner RDO Carbon Fork| |In hand|
 |Front thru axle|12x100mm| |$21|Ordered via Amazon|
-|Headset|IS42/28.6 IS52/40 Integrated Tapered Headset/40|Niner IS42/28.6|IS52/40 Integrated Tapered Headset - RLT RDO| |$40|Bike Bling|
+|Headset|IS42/28.6 IS52/40 Integrated Tapered Headset/40| |Niner IS42/28.6 IS52/40 Integrated Tapered Headset - RLT RDO|$40|Bike Bling|
 |Brake/Shift Levers and Brakes|NA|ED-FRC-D1|SRAM Force eTap AXS HRD Shift-Brake System|$332 x 2|In hand|
 |Rotor: Front|160mm|RT-CLN-X-A2|CenterLine X Rounded Rotor - Centerlock|$73|Ordered Planet Cycle|
 |Rotor: Rear|140mm|RT-CLN-X-A2|CenterLine X Rounded Rotor - Centerlock|$50|Ordered Planet Cycle|
