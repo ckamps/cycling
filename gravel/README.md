@@ -102,7 +102,7 @@ Optionally, will go with all Force, but substitute Rival shift levers due to the
 |Front Derailleur|NA|FD-FRC-EW-D1|SRAM Force eTap Wide|$230|Ordered via Jenson USA|
 |Front Derailleur Braze On Adapter|31.8mm|AC-FDCL-A1|Braze-On Front Derailleur Adapter|$30|Ordered Competitive Cyclist|
 |Crankset|172.5mm|FC-FRC-W-D1|SRAM Force Wide 43/30T - 172.5mm|$254|In hand|
-|Bottom Bracket|PF30>24MM| |DUB PF30 Bottom Bracket Mtn/Road 68/73mm|$44|Ordered Competitive Cyclist|
+|Bottom Bracket|PF30>24MM| |SRAM DUB PressFit Bottom Bracket (Black) (PF30) (68mm Road Wide) 00.6418.018.001|$44|Ordered Competitive Cyclist|
 |Rear Derailleur|NA|RD-FRC-E-D1|SRAM Force eTap Rear Derailleur|$357|Ordered Competitive Cyclist|
 |Cassette| |CS-XG-1270-D1|SRAM Force XG-1270 10-36|$185|In hand|
 |Chain| | |SRAM Force AXS 12-speed Flattop Chain|$35|In hand|
